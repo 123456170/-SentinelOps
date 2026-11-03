@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+networkx
+pydantic
+fastapi
+uvicorn
+psutil
+pillow
+opencv-python-headless
+numpy
+imageio
+imageio-ffmpeg
+pytest
